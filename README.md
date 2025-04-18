@@ -31,7 +31,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=djessicatony&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djessicatony&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djessicatony&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
