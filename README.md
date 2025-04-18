@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">17 Years Old, breaking into SWE & chasing tech dreams</h3>
+<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/0uzOCpdIxrQAAAAd/gol-d-roger-laugh.gif" style="margin-top: 10px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djessicatony&label=Profile%20views&color=0e75b6&style=flat" alt="djessicatony" /> </p>
 
