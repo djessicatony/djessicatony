@@ -24,14 +24,12 @@
 <a href="https://instagram.com/luxoqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luxoqe" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left" style="margin-top: 30px;">📊 GitHub Stats</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djessicatony&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=djessicatony&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=djessicatony&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=djessicatony&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djessicatony&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djessicatony&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center" style="margin-top: 10px;">
