@@ -25,12 +25,13 @@
 </p>
 
 <h3 align="left" style="margin-top: 30px;">📊 GitHub Stats</h3>
-
-<div align="center" style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=djessicatony&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djessicatony&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=djessicatony&show_icons=true&theme=tokyonight&hide_border=true" 
+       alt="GitHub Stats" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djessicatony&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" width="420"/>
 </div>
-
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djessicatony&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djessicatony&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Top Languages" width="440"/>
 </div>
