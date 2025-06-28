@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
-<h3 align="center">Breaking into SWE & chasing tech dreams</h3>
+<h3 align="center">Breaking into swe</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/0uzOCpdIxrQAAAAd/gol-d-roger-laugh.gif" style="margin-top: 10px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djessicatony&label=Profile%20views&color=0e75b6&style=flat" alt="djessicatony" /> </p>
 
-- 📚 Currently diving into **algorithms & grinding DSA problems**
-
-- 💻 Passionate about clean architecture and scalable APIs
+- 📚 Currently diving into **startups**
 
 - 💬 Into **tech, AI, music, anime** — and open to talk about anything
 
 - ⚡ Fun fact: **Top 0.001% Travis Scott listener — it's always ASTROWORLD ˗ˏˋ ✞ ˎˊ˗**
 
-- 📫 Feel free to connect **kirill@djess.net**
+- 📫 Feel free to connect **namisanfan@gmail.com**
 
 <h3>⚛️ Languages and Tools</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,figma,java,spring,hibernate,python,postgres,docker,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,figma,java,spring,python,postgres,docker,git" />
 
 <h3 style="font-size: 16px; font-weight: 500; margin: 0; padding-top: 10px;">🌐 Socials</h3>
 <p align="left">
